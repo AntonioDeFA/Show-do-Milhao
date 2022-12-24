@@ -6,7 +6,7 @@
   
   Segue abaixo a descrição do projeto idealizado por Renata Pontes, professora do Instituto federal da Paraiba - Campus Moteiro:
   
-                                                                     Jogo do Milhão
+                                                               Jogo do Milhão
    Jogo de perguntas e respostas (4 opções de marcar) onde perguntas valendo valores serão
   feitas para o competidor e, a cada resposta certa, uma nova pergunta será feita, valendo mais,
   até se chegar em um milhão e ganhar o jogo.
